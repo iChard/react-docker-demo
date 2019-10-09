@@ -11,3 +11,4 @@ deploy:
    branch: master
 env:
  - DB=postgres
+ - HOST=BAIDU
